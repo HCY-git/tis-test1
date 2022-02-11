@@ -12,3 +12,6 @@ p {
 h1{
     color: red;
 }
+
+#list{list-style: none;}
+#list:first-child{color: crimson; font-size: 20px;}
